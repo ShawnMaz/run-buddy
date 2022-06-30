@@ -43,7 +43,6 @@ header nav ul li a {
   font-size: 22px;
 }
 
-/* apply style to <footer> */
 footer {
   background: #fce138;
   width: 100%;
@@ -67,36 +66,35 @@ footer a {
   color: #024e76;
 }
 
-/* apply style to <section> */
 section {
-  padding: 60px;  
+  padding: 60px;
 }
 
 /* Hero Style Start */
 .hero {
-  background-image: url("../images/hero-bg.jpg");
+  background-image: url('../images/hero-bg.jpg');
   height: 600px;
   background-size: cover;
   background-position: center;
   position: relative;
 }
+/* Hero Style End */
 
 .hero-form {
+  border: 3px solid #024e76;
   background-color: #fce138;
   padding: 20px;
   width: 500px;
   color: #024e76;
-  border: solid 3px #024e76;
   position: absolute;
   bottom: 120px;
   right: 140px;
 }
 
 .hero-form h3 {
-  font-weight: bolder;
+  font-size: 24px;
   margin: 0;
 }
-
 .hero-form p {
   margin: 5px 0 15px 0;
 }
@@ -122,4 +120,3 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
-/* Hero Style End */
