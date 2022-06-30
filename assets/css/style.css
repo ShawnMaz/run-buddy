@@ -198,8 +198,8 @@ section {
 
 .trainer-bio {
   padding: 35px;
-  width: 65%;
   float: left;
+  width: 65%;
 }
 
 .trainer-bio h3 {
@@ -225,7 +225,3 @@ section {
 .text-right {
   text-align: right;
 }
-
-
-
-
