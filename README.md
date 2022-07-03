@@ -12,3 +12,5 @@ https://shawnmaz.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Shantanu
+
+### ©️2019 Run Buddy, Inc
